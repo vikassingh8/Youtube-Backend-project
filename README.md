@@ -18,7 +18,7 @@ https://docs.google.com/document/d/1AORDLpTenGV7501VleaTlnH5PApfUpUhtRtCZ8gEpC0/
 ## Deployment
 
 The app has been deployed on 
-https://youtube-backend-project-vikassingh8.vercel.app
+https://youtube-backend-project-fgjo-vikassingh8.vercel.app/
 
 
 ## FAQ
