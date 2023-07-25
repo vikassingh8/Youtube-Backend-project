@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const port = 3000;
 
 // Connect to DATABASE
-const DATABASE_URL = 'mongodb+srv://vikas:ZpOZzyAfBaophXEx@cluster0.gx4xuwg.mongodb.net/youtube?retryWrites=true&w=majority';
+const DATABASE_URL = 'mongodb+srv://vikas:vikas@98765@cluster0.gx4xuwg.mongodb.net/youtube?retryWrites=true&w=majority';
 mongoose.connect(DATABASE_URL,{ useNewUrlParser: true, useUnifiedTopology: true });
 const db = mongoose.connection
 db.on('error', (err) => console.log(err))
